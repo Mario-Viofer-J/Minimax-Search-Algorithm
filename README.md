@@ -1,4 +1,4 @@
-# ExpNo 5: Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
+# ExpNo 6: Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
 
 ### Name: Mario Viofer J
 ### Register Number/Staff Id: 212223100032
